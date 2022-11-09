@@ -5,7 +5,7 @@
 ## Tabla de Contenidos
 
 - Recursos
-  - [Cursos](Cursos)
+  - [Cursos](Cursos.md)
   - [Libros](Libros.md)
   - [Páginas Web](PaginasWeb.md)
   - [Videos](Videos.md)
