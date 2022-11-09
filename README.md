@@ -5,12 +5,12 @@
 ## Tabla de Contenidos
 
 - Recursos
-  - [Cursos](Cursos.md)
-  - [Libros](Libros.md)
-  - [Páginas Web](PaginasWeb.md)
-  - [Videos](Videos.md)
-  - [Herramientas](Herramientas.md)
-  - [Otros](Otros.md)
+  - [Cursos](./Recursos/Cursos.md)
+  - [Libros](./Recursos/Libros.md)
+  - [Páginas Web](./Recursos/PaginasWeb.md)
+  - [Videos](./Recursos/Videos.md)
+  - [Herramientas](./Recursos/Herramientas.md)
+  - [Otros](./Recursos/Otros.md)
 
 ## Contribuir
 
