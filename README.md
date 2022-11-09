@@ -4,24 +4,14 @@
 
 ## Tabla de Contenidos
 
-- [Recursos](#recursos)
-  - [Cursos](#cursos)
-  - [Libros](#libros)
-  - [Páginas Web](#páginas-web)
-  - [Videos](#videos)
-  - [Herramientas](#herramientas)
-  - [Otros](#otros)
+- Recursos
+  - [Cursos](Cursos)
+  - [Libros](Libros.md)
+  - [Páginas Web](PaginasWeb.md)
+  - [Videos](Videos.md)
+  - [Herramientas](Herramientas.md)
+  - [Otros](Otros.md)
 
-## Recursos
+## Contribuir
 
-### Cursos
-
-### Libros
-
-### Páginas Web
-
-### Videos
-
-### Herramientas
-
-### Otros
+Si quieres contribuir a esta lista, por favor lee [CONTRIBUTING.md](CONTRIBUTING.md) para más información.
